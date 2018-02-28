@@ -4,7 +4,7 @@
 
 В верхнем меню выберете раздел таблицы, в которую хотите добавить данные
 
-.. figure:: _static/Main_window.png
+.. figure:: _static/main_window_1.png
        :scale: 100 %
        :align: center
 

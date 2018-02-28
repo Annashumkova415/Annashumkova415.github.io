@@ -3,7 +3,7 @@
 
 В главном окне выберете запись которую хотите редактировать и нажмите на кнопку "Изменить"
 
-.. figure:: _static/Main_window.png
+.. figure:: _static/main_window_1.png
        :scale: 100 %
        :align: center
 
