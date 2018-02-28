@@ -3,7 +3,7 @@
 
 Выберете запись которую хотите удалить и нажмите на кнопку "Удалить"
 
-.. figure:: _static/main_window_1.png
+.. figure:: _static/Main_window.png
        :scale: 100 %
        :align: center
 

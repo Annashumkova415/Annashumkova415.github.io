@@ -4,7 +4,7 @@
 
 В верхнем меню выберете раздел таблицы, из которой хотите удалить данные
 
-.. figure:: _static/main_window_1.png
+.. figure:: _static/Main_window.png
        :scale: 100 %
        :align: center
 
